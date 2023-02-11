@@ -1,0 +1,16 @@
+{
+  "post": [
+    {
+      "post_img": "http://res.cloudinary.com/do6dt1ot2/image/upload/v1676053191/otvenyfiht4poclrnryv.jpg",
+      "id": 1
+    },
+    {
+      "post_img": "http://res.cloudinary.com/do6dt1ot2/image/upload/v1676053210/jy0sictn11k23jlskcwo.jpg",
+      "id": 2
+    },
+    {
+      "post_img": "http://res.cloudinary.com/do6dt1ot2/image/upload/v1676053239/gukyxjlbzpaae1vhla5k.jpg",
+      "id": 3
+    }
+  ]
+}
