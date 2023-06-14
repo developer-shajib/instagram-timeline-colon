@@ -1,5 +1,5 @@
 
-## Getting Started with Instagram timeline clone
+## Getting Started with Instagram timeline clone for practice purpose
 
 Here can upload image in instagram timeline. Uses Cloudinary for Image upload. and this link store in json db. And using react show data in home page
 
